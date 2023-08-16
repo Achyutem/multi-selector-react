@@ -3,4 +3,4 @@
 
 ##### *Preview* 
 
-![multi-select-react](https://github.com/Achyutem/multi-selector-react/blob/main/Multi-selector.png)
+![multi-select-react](multi-selector.png)
